@@ -49,6 +49,18 @@ header {
   top: 525px;
 }
 
+#index-ch1 {
+  position: absolute;
+  left: 150px;
+  top: 525px;
+}
+
+#index-ch2 {
+  position: absolute;
+  right: 150px;
+  top: 525px;
+}
+
 .pg {
   border: 2px solid #353361;
   display: block;
