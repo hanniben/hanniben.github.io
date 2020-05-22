@@ -49,16 +49,20 @@ header {
   top: 525px;
 }
 
+#index-previews {
+  text-align: center;
+}
+
 #index-ch1 {
-  position: absolute;
-  left: 150px;
-  top: 525px;
+  width: 20%;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 #index-ch2 {
-  position: absolute;
-  right: 150px;
-  top: 525px;
+  width: 20%;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .pg {
