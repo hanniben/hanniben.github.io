@@ -65,6 +65,12 @@ header {
   margin-right: auto;
 }
 
+#index-ch3 {
+  width: 20%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .pg {
   border: 2px solid #353361;
   display: block;
